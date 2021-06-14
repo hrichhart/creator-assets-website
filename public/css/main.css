@@ -2029,7 +2029,7 @@ fieldset:disabled a.btn {
     pointer-events: none;
 }
 .btn-wide {
-  width:100%;
+	width: 100%;
 }
 .btn-primary {
     color: #fff;
