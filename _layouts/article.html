@@ -6,7 +6,7 @@
 
     <body class="about-us sidebar-collapse">
         {% include navigation.html %}
-        
+
         <div class="page-header header-filter header-small" data-parallax="true" style="background-image: url('public/img/misc/header.jpg');">
             <div class="container">
                 <div class="row">
@@ -48,25 +48,6 @@
                                 </div>
                             </div>
                             <hr />
-
-                            <!-- Author -->
-                            <div class="card card-profile card-plain">
-                                <div class="row">
-                                    <div class="col-md-2">
-                                        <div class="card-avatar">
-                                            <a>
-                                                <img class="img" src="public/img/author/alec-thompson.jpg" alt="Alec Thompson" />
-                                            </a>
-                                            <div class="ripple-container"></div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-10">
-                                        <h4 class="card-title">Alec Thompson</h4>
-                                        <p class="description">For the past seven years, I've been making open-sourced websites and software.</p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -74,8 +55,8 @@
                     <div class="row">
                         <div class="col-md-8 ml-auto mr-auto">
                             <div class="media-area">
-                                <h3 class="title text-center">Comments</h3>
-                                
+                                <h3 class="title text-center">What Do You Think?</h3>
+
                                 <!-- Utteranc.es comments -->
                                 <script src="https://utteranc.es/client.js"
                                         repo="BunniByte/scratchconvert.com"
@@ -97,11 +78,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2 class="title text-center">Similar Stories</h2>
+                        <h2 class="title text-center">More Free Assets..</h2>
                         <br />
                         <div class="row">
-                            
-                            
+
+
                             {% for post in site.posts limit:3 %}
                                 {% if post.permalink != page.permalink %}
                                     <div class="col-md-4">
