@@ -2028,7 +2028,7 @@ a.btn.disabled,
 fieldset:disabled a.btn {
     pointer-events: none;
 }
-.btn btn-wide {
+.btn-wide {
   width:100%;
 }
 .btn-primary {
