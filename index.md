@@ -10,7 +10,7 @@ permalink: /
     <div class="container">
         <div class="row">
             <div class="col-md-8 ml-auto mr-auto text-center">
-                <h1 class="title">👋 We're Creator Assets.</h1>
+                <h1 class="title">👋 Hey, we're Creator Assets.</h1>
                 <p>Creating Public Domain SFX & Assets for three years.</p>
                 <br />
             </div>
