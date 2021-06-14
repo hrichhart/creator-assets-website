@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+    </head>
+
+    <body class="about-us sidebar-collapse">
+        {% include navigation.html %}
+        
+        <div class="page-header header-filter header-small" data-parallax="true" style="background-image: url('public/img/misc/header.jpg');">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 ml-auto mr-auto text-center">
+                        <h1 class="title">{{ page.title }}</h1>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main main-raised">
+            <div class="container">
+                <div class="section section-text">
+                    <div class="row">
+                        <div class="col-md-8 ml-auto mr-auto">
+                            {{ content }}
+                        </div>
+                    </div>
+                </div>
+                <div class="section section-blog-info">
+                    <div class="row">
+                        <div class="col-md-8 ml-auto mr-auto">
+                            <div class="row">
+
+                                <!-- Tags -->
+                                <div class="col-md-6">
+                                    <div class="blog-tags">
+                                        Tags:
+                                        {% for tag in page.tags %}
+                                            <span class="badge badge-primary badge-pill">{{ tag }}</span>
+                                        {% endfor %}
+                                    </div>
+                                </div>
+
+                                <!-- Share -->
+                                <div class="col-md-6">
+                                    <a href="https://twitter.com" class="btn btn-twitter btn-round float-right"> <i class="fab fa-twitter"></i> Twitter</a>
+                                    <a href="https://facebook.com" class="btn btn-facebook btn-round float-right"> <i class="fab fa-facebook"></i> Facebook</a>
+                                </div>
+                            </div>
+                            <hr />
+
+                            <!-- Author -->
+                            <div class="card card-profile card-plain">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="card-avatar">
+                                            <a>
+                                                <img class="img" src="public/img/author/alec-thompson.jpg" alt="Alec Thompson" />
+                                            </a>
+                                            <div class="ripple-container"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-10">
+                                        <h4 class="card-title">Alec Thompson</h4>
+                                        <p class="description">For the past seven years, I've been making open-sourced websites and software.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="section section-comments">
+                    <div class="row">
+                        <div class="col-md-8 ml-auto mr-auto">
+                            <div class="media-area">
+                                <h3 class="title text-center">Comments</h3>
+                                
+                                <!-- Utteranc.es comments -->
+                                <script src="https://utteranc.es/client.js"
+                                        repo="BunniByte/scratchconvert.com"
+                                        issue-term="pathname"
+                                        label="💬"
+                                        theme="github-light"
+                                        crossorigin="anonymous"
+                                        async>
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Read more section -->
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="title text-center">Similar Stories</h2>
+                        <br />
+                        <div class="row">
+                            
+                            
+                            {% for post in site.posts limit:3 %}
+                                {% if post.permalink != page.permalink %}
+                                    <div class="col-md-4">
+                                        <div class="card card-blog">
+                                            <div class="card-header card-header-image">
+                                                <a href="https://scratchconvert.com{{ post.permalink }}">
+                                                    <img class="img img-raised" src="{{ post.thumbnail | default: site.thumbnail }}" />
+                                                </a>
+                                            </div>
+                                            <div class="card-body">
+                                                <h6 class="category text-info">{{ post.category }}</h6>
+                                                <h4 class="card-title">
+                                                    <a href="https://scratchconvert.com{{ post.permalink }}">{{ post.title }}</a>
+                                                </h4>
+                                                <p class="card-description">
+                                                    {{ post.description }}<a href="https://scratchconvert.com{{ post.permalink }}"> Read More </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% include footer.html %}
+
+        {% include scripts.html %}
+    </body>
+</html>

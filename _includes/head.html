@@ -1,0 +1,53 @@
+<!-- Meta -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta charset="utf-8" />
+
+<link rel="apple-touch-icon" sizes="76x76" href="public/img/favicons/apple-icon.png" />
+<link rel="icon" type="image/png" href="public/img/favicons/favicon.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no" name="viewport" />
+
+<meta http-equiv = "content-language" content = "en">
+
+<!-- Page title -->
+<title> {{ page.title | default: site.title }} </title>
+
+<!-- Canonical SEO -->
+<link rel="canonical" href="https://scratchconvert.com{{ page.permalink | default: site.baseurl }}" />
+
+<!-- Social tags -->
+<meta
+    name="keywords"
+    content="scratch, gamemaker, convert, scratch convert, scratch to exe, scratch to executable, scratch converterter, scratch to gamemaker, scratch convert to exe"
+/>
+<meta name="description" content="{{ page.description | default: site.description }}" />
+        
+<!-- Schema.org markup -->
+<meta itemprop="name" content="{{ page.title | default: site.title }}" />
+<meta itemprop="description" content="{{ page.description | default: site.description }}" />
+<meta itemprop="image" content="{{ page.thumbnail | default: site.thumbnail }}" />
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="product" />
+<meta name="twitter:site" content="@bytebunni" />
+<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
+<meta name="twitter:description" content="{{ page.description | default: site.description }}" />
+<meta name="twitter:creator" content="@bytebunni" />
+<meta name="twitter:image" content="{{ page.thumbnail | default: site.thumbnail }}" />
+
+<!-- Open Graph data -->
+<meta property="fb:app_id" content="655968634437471" />
+<meta property="og:title" content="{{ page.title | default: site.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://scratchconvert.com{{ page.permalink | default: site.baseurl }}" />
+<meta property="og:image" content="{{ page.thumbnail | default: site.thumbnail }}" />
+<meta property="og:description" content="{{ page.description | default: site.description }}" />
+<meta property="og:site_name" content="ScratchConvert" />
+
+<!-- Fonts & icons -->
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons">
+<link href="public/vendor/fontawesome-free-5.15.1-web/css/all.css" rel="stylesheet"> <!--load all styles -->
+
+<!-- CSS Files -->
+<link href="public/css/main.css" rel="stylesheet" />

@@ -1,0 +1,7 @@
+# A robots.txt file made by a human.
+User-agent: *
+Disallow: 
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_posts/
+Sitemap: https://scratchconvert.com
