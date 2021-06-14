@@ -22,7 +22,7 @@ permalink: /
         <div class="section section-text">
             <!-- Popular articles start -->
             <div class="row">
-                <h3 class="title">Popular Articles</h3>
+                <h3 class="title">Top Assets</h3>
 
                 <div class="row">
                     {% for post in site.posts %}
@@ -69,7 +69,7 @@ permalink: /
 
             <!-- All articles start -->
             <div class="row">
-                <h3 class="title">All Articles</h3>
+                <h3 class="title">Latest Assets</h3>
 
                 <div class="row">
                     {% for post in site.posts %}
