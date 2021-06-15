@@ -11516,7 +11516,7 @@ textarea {
     content: "";
 }
 .header-filter:before {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0);
 }
 .header-filter .container {
     z-index: 2;
