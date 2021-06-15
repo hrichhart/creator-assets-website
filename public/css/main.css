@@ -11465,7 +11465,38 @@ textarea {
 .page-header.header-small {
     height: 50vh;
     min-height: 50vh;
+
+    background: linear-gradient(139deg, #eb1a73, #fda134);
+    background-size: 400% 400%;
+
+    -webkit-animation: headerAnimation 30s ease infinite;
+    -moz-animation: headerAnimation 30s ease infinite;
+    -o-animation: headerAnimation 30s ease infinite;
+    animation: headerAnimation 30s ease infinite;
 }
+
+@-webkit-keyframes headerAnimation {
+    0%{background-position:9% 0%}
+    50%{background-position:92% 100%}
+    100%{background-position:9% 0%}
+}
+@-moz-keyframes headerAnimation {
+    0%{background-position:9% 0%}
+    50%{background-position:92% 100%}
+    100%{background-position:9% 0%}
+}
+@-o-keyframes headerAnimation {
+    0%{background-position:9% 0%}
+    50%{background-position:92% 100%}
+    100%{background-position:9% 0%}
+}
+@keyframes headerAnimation {
+    0%{background-position:9% 0%}
+    50%{background-position:92% 100%}
+    100%{background-position:9% 0%}
+}
+
+
 .page-header .iframe-container iframe {
     width: 100%;
     box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0 rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
