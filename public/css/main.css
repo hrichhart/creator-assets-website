@@ -11465,35 +11465,6 @@ textarea {
 .page-header.header-small {
     height: 50vh;
     min-height: 50vh;
-
-    background: linear-gradient(139deg, #eb1a73, #fda134);
-    background-size: 400% 400%;
-
-    -webkit-animation: headerAnimation 2s ease infinite;
-    -moz-animation: headerAnimation 2s ease infinite;
-    -o-animation: headerAnimation 2s ease infinite;
-    animation: headerAnimation 2s ease infinite;
-}
-
-@-webkit-keyframes headerAnimation {
-    0%{background-position:9% 0%}
-    50%{background-position:92% 100%}
-    100%{background-position:9% 0%}
-}
-@-moz-keyframes headerAnimation {
-    0%{background-position:9% 0%}
-    50%{background-position:92% 100%}
-    100%{background-position:9% 0%}
-}
-@-o-keyframes headerAnimation {
-    0%{background-position:9% 0%}
-    50%{background-position:92% 100%}
-    100%{background-position:9% 0%}
-}
-@keyframes headerAnimation {
-    0%{background-position:9% 0%}
-    50%{background-position:92% 100%}
-    100%{background-position:9% 0%}
 }
 
 
@@ -11516,7 +11487,34 @@ textarea {
     content: "";
 }
 .header-filter:before {
-    background: rgba(0, 0, 0, 0);
+    background: linear-gradient(139deg, #eb1a73, #fda134);
+    background-size: 400% 400%;
+
+    -webkit-animation: headerAnimation 2s ease infinite;
+    -moz-animation: headerAnimation 2s ease infinite;
+    -o-animation: headerAnimation 2s ease infinite;
+    animation: headerAnimation 2s ease infinite;
+
+    @-webkit-keyframes headerAnimation {
+        0%{background-position:9% 0%}
+        50%{background-position:92% 100%}
+        100%{background-position:9% 0%}
+    }
+    @-moz-keyframes headerAnimation {
+        0%{background-position:9% 0%}
+        50%{background-position:92% 100%}
+        100%{background-position:9% 0%}
+    }
+    @-o-keyframes headerAnimation {
+        0%{background-position:9% 0%}
+        50%{background-position:92% 100%}
+        100%{background-position:9% 0%}
+    }
+    @keyframes headerAnimation {
+        0%{background-position:9% 0%}
+        50%{background-position:92% 100%}
+        100%{background-position:9% 0%}
+    }
 }
 .header-filter .container {
     z-index: 2;
