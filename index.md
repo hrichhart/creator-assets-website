@@ -1,103 +1,155 @@
----
-layout: default
-title: ScratchConvert - Convert Scratch Projects to .exe For Free!
-description: All about how to convert Scratch Projects to Windows Programs, HTML5, and even Mobile Apps completely for free!
-thumbnail: public/img/branding/thumbnail.png
-permalink: /
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Creator Assets | Home</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+    <body class="is-preload">
+        <!-- Wrapper -->
+        <div id="wrapper">
+            <!-- Header -->
+            <header id="header" class="alt">
+                <span class="logo"><img src="images/logo.svg" alt="" /></span>
+                <h1>👋 Hey, we're Creator Assets.</h1>
+                <p>Empowering Creators with high quality, Copyright free assets.</p>
+            </header>
 
-<div class="page-header header-filter header-small" data-parallax="true" style="background-image: url('public/img/misc/header.jpg');">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 ml-auto mr-auto text-center">
-                <h1 class="title">👋 Hey, we're Creator Assets.</h1>
-                <p>Creating Public Domain SFX & Assets for three years.</p>
-                <br />
+            <!-- Nav -->
+            <nav id="nav">
+                <ul>
+                    <li><a href="#intro" class="active">Our Mission</a></li>
+                    <li><a href="#first">Why Us?</a></li>
+                    <li><a href="#cta">Get Started</a></li>
+                </ul>
+            </nav>
+
+            <!-- Main -->
+            <div id="main">
+                <!-- Our Mission -->
+                <section id="intro" class="main">
+                    <div class="spotlight">
+                        <div class="content">
+                            <header class="major">
+                                <h2>Our Mission</h2>
+                            </header>
+
+                            <p>Our Mission is to provide creators with high-quality, cost-free assets to use for any project.</p>
+
+														<!-- Channel stats -->
+														<ul class="statistics">
+				                        <li class="style1">
+				                            <span class="icon solid fa-eye"></span>
+				                            <strong>702k</strong> Channel Views
+				                        </li>
+				                        <li class="style2">
+				                            <span class="icon solid fa-bookmark"></span>
+				                            <strong>1.04k</strong> Subscribers
+				                        </li>
+				                        <li class="style3">
+				                            <span class="icon solid fa-plus-circle"></span>
+				                            <strong>20</strong> Assets Created
+				                        </li>
+				                    </ul>
+
+														<!-- Visit channel button -->
+                            <ul class="actions">
+                                <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" target="_BLANK" class="button">Visit Channel</a></li>
+                            </ul>
+                        </div>
+
+												<!-- Channel icon -->
+                        <a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" target="_BLANK"><span class="image"><img src="https://yt3.ggpht.com/ytc/AAUvwnhaZYEtuUc8oRo-JTeeBqz3Moost-BEl8qJs4Mi" alt="" /></span></a>
+                    </div>
+                </section>
+
+                <!-- Why Us? -->
+                <section id="first" class="main special">
+                    <header class="major">
+                        <h2>Why Use Our Assets?</h2>
+                    </header>
+
+                    <ul class="features">
+                        <li>
+                            <span class="icon solid major style1 fa-gavel"></span>
+                            <h3>Copyright Free</h3>
+                            <p>All of our assets are listed in the Public Domain-- so you don't have to worry about copyright strikes, licenses, or crediting!</p>
+                        </li>
+                        <li>
+                            <span class="icon major style3 fa-credit-card"></span>
+                            <h3>Completely Free</h3>
+                            <p>All of our assets are completely free to use. No questions asked. You don't have to credit us, but it is much appreciated.</p>
+                        </li>
+                        <li>
+                            <span class="icon major style5 fa-gem"></span>
+                            <h3>High Quality</h3>
+                            <p>All of our assets are the highest quality possible. All sounds are avaliable to download in both lossy and non-lossy formats.</p>
+                        </li>
+                    </ul>
+
+										<!-- Serach button -->
+                    <footer class="major">
+                        <ul class="actions special">
+                            <li><a href="/search" class="button">Search For Assets</a></li>
+                        </ul>
+                    </footer>
+                </section>
+
+                <!-- Get Started -->
+                <section id="cta" class="main special">
+                    <header class="major">
+                        <h2>Let's Make Something Awesome.</h2>
+                        <p>
+                            Ready? Let's make something awesome together. Visit our YouTube channel or start searching for assets..
+                        </p>
+                    </header>
+                    <footer class="major">
+                        <ul class="actions special">
+                            <li><a href="generic.html" class="button primary">Search For Assets</a></li>
+                            <li><a href="generic.html" class="button">Visit Channel</a></li>
+                        </ul>
+                    </footer>
+                </section>
             </div>
+
+            <!-- Footer -->
+            <footer id="footer">
+								<!-- Our mission -->
+								<section>
+                    <h2>Our Mission</h2>
+                    <p>
+                        Our Mission is to provide creators with high-quality, cost-free assets to use for any project.
+                    </p>
+                    <ul class="actions">
+                        <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" target="_BLANK" class="button">Visit Our YouTube</a></li>
+                    </ul>
+                </section>
+
+								<!-- Info -->
+                <section>
+                    <h2>Contact</h2>
+                    <dl class="alt">
+                        <p>You can contact us any time-- we'll respond ASAP. 😊</p>
+                        <dt>Email</dt>
+                        <dd><a href="mailto:contact@creatorassets.com" target="_BLANK">contact@creatorassets.com</a></dd>
+                    </dl>
+
+                </section>
+
+								<!-- Legal jargon -->
+                <p class="copyright">&copy; <script>document.write(new Date().getFullYear())</script>, <a href="https://bunnibyte.com" target="_BLANK">BunniByte</a>. All rights reserved.</p>
+            </footer>
         </div>
-    </div>
-</div>
-<div class="main">
-    <div class="container">
-        <div class="section section-text">
-            <!-- Popular articles start -->
-            <div class="row">
-                <h3 class="title">Top Assets</h3>
 
-                <div class="row">
-                    {% for post in site.posts %}
-                        {% if post.featured == 1 or post.featured == 2 %}
-                            <div class="col-md-6">
-                                <div class="card card-raised card-background" style="background-image: url('{{ post.thumbnail | default: site.thumbnail }}">
-                                    <div class="card-body">
-                                        <h6 class="card-category text-info">{{ post.category }}</h6>
-                                        <a href="https://scratchconvert.com{{ post.permalink }}">
-                                            <h3 class="card-title">{{ post.title }}</h3>
-                                        </a>
-                                        <p class="card-description">
-                                            {{ post.description }}
-                                        </p>
-                                        <a href="https://scratchconvert.com{{ post.permalink }}" class="btn btn-danger btn-round">
-                                            <i class="material-icons">format_align_left</i> Read Article
-                                            <div class="ripple-container"></div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        {% endif %}
-
-                        {% if post.featured == 3 %}
-                            <div class="col-md-12">
-                                <div class="card card-raised card-background" style="background-image: url('{{ post.thumbnail | default: site.thumbnail }}');">
-                                    <div class="card-body">
-                                        <h6 class="card-category text-info">{{ post.category }}</h6>
-                                        <h3 class="card-title">{{ post.title }}</h3>
-                                        <p class="card-description">
-                                            {{ post.description }}
-                                        </p>
-                                        <a href="https://scratchconvert.com{{ post.permalink }}" class="btn btn-warning btn-round"> <i class="material-icons">subject</i> Read Article </a>
-                                            <div class="ripple-container"></div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-            <!-- Popular articles end -->
-
-            <!-- All articles start -->
-            <div class="row">
-                <h3 class="title">Latest Assets</h3>
-
-                <div class="row">
-                    {% for post in site.posts %}
-                        {% if post.featured == false %}
-                            <div class="col-md-4">
-                                <div class="card card-blog">
-                                    <div class="card-header card-header-image">
-                                        <a href="https://scratchconvert.com{{ post.permalink }}">
-                                            <img src="{{ post.thumbnail | default: site.thumbnail }}" alt="{{ post.title }}" />
-                                        </a>
-                                        <div class="colored-shadow" style="background-image: url('{{ post.thumbnail | default: site.thumbnail }}'); opacity: 1;"></div>
-                                    </div>
-                                    <div class="card-body">
-                                        <h6 class="card-category text-warning">{{ post.category }}</h6>
-
-                                        <h4 class="card-title">
-                                            <a href="https://scratchconvert.com{{ post.permalink }}">{{ post.title }}</a>
-                                        </h4>
-
-                                        <a href="https://scratchconvert.com{{ post.permalink }}" class="btn btn-warning btn-round"> <i class="material-icons">subject</i> Read Article </a><div class="ripple-container"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-            <!-- All articles end -->
-        </div>
-    </div>
-</div>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
