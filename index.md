@@ -17,7 +17,7 @@ permalink: /
         </div>
     </div>
 </div>
-<div class="main main-raised">
+<div class="main">
     <div class="container">
         <div class="section section-text">
             <!-- Popular articles start -->
