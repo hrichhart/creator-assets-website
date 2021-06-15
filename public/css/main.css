@@ -11469,10 +11469,10 @@ textarea {
     background: linear-gradient(139deg, #eb1a73, #fda134);
     background-size: 400% 400%;
 
-    -webkit-animation: headerAnimation 30s ease infinite;
-    -moz-animation: headerAnimation 30s ease infinite;
-    -o-animation: headerAnimation 30s ease infinite;
-    animation: headerAnimation 30s ease infinite;
+    -webkit-animation: headerAnimation 2s ease infinite;
+    -moz-animation: headerAnimation 2s ease infinite;
+    -o-animation: headerAnimation 2s ease infinite;
+    animation: headerAnimation 2s ease infinite;
 }
 
 @-webkit-keyframes headerAnimation {
