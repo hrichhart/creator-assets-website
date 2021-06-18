@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include core-head.html %}
+    </head>
+    <body class="is-preload">
+        <!-- Wrapper -->
+        <div id="wrapper">
+          <!-- Header -->
+          <header id="header">
+              <h1>{{ page.title | default: 😅 Undefined Title }}</h1>
+              <p>{{ page.smalldesc }}</p>
+          </header>
+
+          <!-- Main -->
+          <div id="main">
+              <!-- Content -->
+              <section id="content" class="main">
+                  <span class="image main"><img src="images/{{ page.image | pic04.jpg }}" alt="" /></span>
+                  {{ content }}
+              </section>
+          </div>
+
+          {% include footer.html %}
+
+          {% include scripts.html %}
+        </div>
+    </body>
+</html>
