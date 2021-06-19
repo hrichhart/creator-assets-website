@@ -16,18 +16,16 @@
           <div id="main">
               <!-- Content -->
               <section id="content" class="main">
-                  <!-- Header image -->
-                  <span class="image main"><img src="/images/{{ page.image | image-placeholder.jpg }}" alt="" /></span>
+                  <!-- Post content -->
+                  {{ content }}
 
                   <!-- video -->
                   {% if page.video-id != null %}
                     <center>
                       <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <p><i>(Official download page for this video. 😊)</i></p>
                     </center>
                   {% endif %}
-
-                  <!-- Post content -->
-                  {{ content }}
               </section>
           </div>
 
