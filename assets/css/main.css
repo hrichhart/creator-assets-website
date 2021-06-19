@@ -177,6 +177,11 @@ input, select, textarea {
 		font-style: italic;
 	}
 
+small {
+	font-size: 0.8em;
+	font-weight: 150;
+}
+
 	p {
 		margin: 0 0 2em 0;
 	}
