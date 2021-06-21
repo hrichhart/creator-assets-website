@@ -3229,6 +3229,9 @@ small {
 		border-top-right-radius: 0.25em;
 		cursor: default;
 		text-align: center;
+
+		width: 50em;
+		max-width: calc(100% - 4em);
 	}
 
 		#nav input, #nav select, #nav textarea {
