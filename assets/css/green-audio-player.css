@@ -18,7 +18,8 @@
   user-select: none;
   background-color: #fff;
   box-sizing: border-box;
-  outline: none; }
+  outline: none;
+  max-width: 100%; }
   .green-audio-player.player-accessible .play-pause-btn:hover,
   .green-audio-player.player-accessible .controls:hover,
   .green-audio-player.player-accessible .volume__button:hover,
