@@ -34,11 +34,13 @@
                   <hr>
                   <center><h3>Get These Assets..</h3></center>
 
-                  <strong>Download full tracks</strong>
+                  {% if page.sounds.size > 0 %}<strong>Download full tracks</strong>{% endif %}
                   <ul class="actions">
 										<li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.mp3" download="{{ page.title }} (MP3)" class="button primary">Download .mp3</a></li>
 										<li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.flac" download="{{ page.title }} (Lossless)" class="button">Download Lossless (.flac)</a></li>
 									</ul>
+
+                  {% if page.sounds.size > 0 %}
 
                   <strong>Download Individually..</strong><br />
 
@@ -52,6 +54,8 @@
 
                     <br />
                   {% endfor %}
+
+                  {% endif %}
 
                   <!-- Legal -->
                   <hr>
