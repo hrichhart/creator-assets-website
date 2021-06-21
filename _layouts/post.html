@@ -44,8 +44,10 @@
 
                   <strong>Download Individually</strong><br />
 
+                  {% assign numberIndex = 0 %}
                   {% for sound in page.sounds %}
-                    <small>1. Short and sweet click sound effect, good for button selections or clicks</small>
+                    {% numberIndex++ %}
+                    <small>#{{ numberIndex }}</small>
                     <div class="ready-player-1 player-with-download">
                         <audio crossorigin>
                             <source src="/cdn/{{ page.cdn-folder}}/{{ sound }}" type="audio/mpeg">
