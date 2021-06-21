@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
-@import 'https://fonts.googleapis.com/css?family=Roboto:300,400';
+@import 'https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,40';
 
 /*
 	Stellar by HTML5 UP
@@ -126,7 +126,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Roboto";
+		font-family: "Noto Sans JP";
 		font-size: 17pt;
 		line-height: 1.65;
 	}
