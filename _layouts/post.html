@@ -44,10 +44,10 @@
 
                   <strong>Download Individually</strong><br />
 
-                  {% assign numberIndex = 0 %}
+                  {% assign i = 0 %}
                   {% for sound in page.sounds %}
-                    {% numberIndex++ %}
-                    <small>#{{ numberIndex }}</small>
+                    {% assign i = i | plus:1 %}
+                    <small>#{{ i }}</small>
                     <div class="ready-player-1 player-with-download">
                         <audio crossorigin>
                             <source src="/cdn/{{ page.cdn-folder}}/{{ sound }}" type="audio/mpeg">
