@@ -32,9 +32,9 @@
 
                   <!-- downloads -->
                   <hr>
-                  <center><h3>Get These Assets..</h3></center>
+                  <center><h3>Get These Assets</h3></center>
 
-                  {% if page.sounds.size > 0 %}<strong>Download full tracks</strong>{% endif %}
+                  {% if page.sounds.size > 0 %}<strong>Download Full Track</strong>{% endif %}
                   <ul class="actions">
 										<li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.mp3" download="{{ page.title }} (MP3)" class="button primary">Download .mp3</a></li>
 										<li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.flac" download="{{ page.title }} (Lossless)" class="button">Download Lossless (.flac)</a></li>
@@ -42,7 +42,7 @@
 
                   {% if page.sounds.size > 0 %}
 
-                  <strong>Download Individually..</strong><br />
+                  <strong>Download Individually</strong><br />
 
                   {% for sound in page.sounds %}
                     <small>1. Short and sweet click sound effect, good for button selections or clicks</small>
