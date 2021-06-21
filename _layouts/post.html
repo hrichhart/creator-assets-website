@@ -21,12 +21,10 @@
 
                   <!-- video -->
                   {% if page.video-id != null %}
-                    <div class="post-video">
-                      <center>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <p><i><small>(Official asset download page for this video. 😊)</small></i></p>
-                      </center>
-                    </div>
+                    <center>
+                      <iframe style="max-width:100%; border-radius: 8px;" width="560" height="315" src="https://www.youtube.com/embed/{{ page.video-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <p><i><small>(Official asset download page for this video. 😊)</small></i></p>
+                    </center>
                   {% endif %}
 
                   <!-- downloads -->
@@ -76,7 +74,7 @@
 
                   <p>❤️ We really hope you enjoy using our assets as much as we had fun making them. Thank you.</p>
 
-                  <strong>Full Legal Code..</strong>
+                  <strong>Full Legal Code</strong>
                   <pre><code>
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
