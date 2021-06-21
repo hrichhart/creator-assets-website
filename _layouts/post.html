@@ -12,6 +12,13 @@
               <p>{{ page.smalldesc }}</p>
           </header>
 
+          <!-- sitewide warning ? -->
+          {% if site.alert != null %}
+          <div id="site-notice">
+
+          </div>
+          {% endif %}
+
           <!-- Main -->
           <div id="main">
               <!-- Content -->
@@ -63,7 +70,7 @@
                   <br />
 
                   <!-- Legal -->
-                  <center><h3>Legal Stuff</h3></center>
+                  <center><h3>Legal</h3></center>
 
                   <strong>Summary</strong>
                   <p>😄 We're so happy you chose Creator Assets to help make your project something awesome. We are so glad to be helping creators enhance their projects, and create something beautiful.</p>

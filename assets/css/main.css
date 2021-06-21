@@ -3682,6 +3682,30 @@ small {
 
 		}
 
+/* Site notice */
+.site-banner, .banner-info, .banner-warning, .banner-error {
+	background-color: #ffffff;
+	border-radius: 0.25em;
+	margin: 10px 0px;
+	padding:12px;
+	width: 100%;
+}
+
+.site-banner .banner-info {
+	color: #00529B;
+  background-color: #BDE5F8;
+}
+
+.site-banner .banner-warning {
+	color: #9F6000;
+	background-color: #FEEFB3;
+}
+
+.site-banner .banner-error {
+	color: #D8000C;
+	background-color: #FFD2D2;
+}
+
 /* Footer */
 
 	#footer {
