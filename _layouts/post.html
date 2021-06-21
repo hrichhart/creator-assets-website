@@ -42,7 +42,11 @@
 
                   <strong>Download Individually..</strong>
 
-                  {% for static_file in /cdn/click-sound-effects/individual/ %}
+                  {%
+                    files_location = "/cdn/click-sound-effects/individual/"
+                  %}
+
+                  {% for static_file in page.files_location %}
                     found 1,
                   {% endfor %}
 
