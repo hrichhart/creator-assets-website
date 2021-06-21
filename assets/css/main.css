@@ -3687,13 +3687,21 @@ small {
 		}
 
 /* Site notice */
-.site-banner {
-	color: #D8000C;
-	background-color: #FFD2D2;
+.alert {
 	border-radius: 0.25em;
 	margin: 10px 0px;
 	padding:12px;
 	width: 100%;
+}
+
+.alert.danger {
+	color: #fff;
+	background-color: #f44336;
+}
+
+.alert.warning {
+	color: #fff;
+	background-color: #ff9800;
 }
 
 /* Footer */
