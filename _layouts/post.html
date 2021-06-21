@@ -43,14 +43,14 @@
                   <strong>Download Individually..</strong>
 
                   {% for sound in page.sounds %}
-                  <code>/cdn/{{ page.cdn-folder}}/{{ sound }}</code><br/>
+                    <div class="ready-player-1 player-with-download">
+                        <audio crossorigin>
+                            <source src="/cdn/{{ page.cdn-folder}}/{{ sound }}" type="audio/mpeg">
+                        </audio>
+                    </div>
                   {% endfor %}
 
-                  <div class="ready-player-1 player-with-download">
-                      <audio crossorigin>
-                          <source src="/audio/examples/audio/example-1.mp3" type="audio/mpeg">
-                      </audio>
-                  </div>
+
 
                   <br />
 
