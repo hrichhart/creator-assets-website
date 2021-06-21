@@ -101,8 +101,8 @@ title: Creator Assets | Home
         </header>
         <footer class="major">
             <ul class="actions special">
-                <li><a href="generic.html" class="button primary">Search For Assets</a></li>
-                <li><a href="generic.html" class="button">Visit Channel</a></li>
+                <li><a href="/search" class="button primary">Search For Assets</a></li>
+                <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" class="button">Visit Channel</a></li>
             </ul>
         </footer>
     </section>
