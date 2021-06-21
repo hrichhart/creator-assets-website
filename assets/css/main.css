@@ -3230,6 +3230,7 @@ small {
 		cursor: default;
 		text-align: center;
 
+		/* This is honestly a bit of a patch job, but hey, it works, eh? */
 		width: 50em;
 		max-width: calc(100% - 4em);
 	}
