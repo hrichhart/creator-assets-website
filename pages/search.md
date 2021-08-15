@@ -12,7 +12,7 @@ description: noindex
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/path/to/search-script.js" type="text/javascript"></script>
+<script src="/assets/article-data.json" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
