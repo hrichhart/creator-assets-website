@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include core-head.html %}
+    </head>
+    <body class="is-preload">
+        <!-- Wrapper -->
+        <div id="wrapper">
+          <!-- Header -->
+          <header id="header">
+              <h1>{{ page.title | default: 😅 Undefined Title }}</h1>
+              <p>{{ page.smalldesc }}</p>
+          </header>
+
+          <!-- sitewide warning ? -->
+          {% include site-banner.html %}
+
+          <!-- Main -->
+          <div id="main">
+              <!-- Content -->
+              <section id="content" class="main">
+                  <!-- Post content -->
+                  {{ content }}
+              </section>
+          </div>
+
+          {% include footer.html %}
+
+          {% include scripts.html %}
+        </div>
+    </body>
+</html>
