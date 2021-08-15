@@ -55,30 +55,9 @@
 
                     {% if page.sounds.size > 0 %}<strong>Download Full Track</strong>{% endif %}
                     <ul class="actions">
-                        <li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.mp3" download="{{ page.title }} (MP3)" class="button primary">Download .mp3</a></li>
-                        <li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.flac" download="{{ page.title }} (Lossless)" class="button">Download Lossless (.flac)</a></li>
+                        <li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.mp4" download="{{ page.title }} (MP3)" class="button primary">Download .mp3</a></li>
+                        <li><a href="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.avi" download="{{ page.title }} (Lossless)" class="button">Download Lossless (.avi)</a></li>
                     </ul>
-
-                    {% if page.sounds.size > 0 %}
-
-                    <strong>Download Individually</strong><br />
-
-                    {% for sound in page.sounds %}
-                    <div class="ready-player-1 player-with-download">
-                        <audio crossorigin>
-                            <source src="/cdn/{{ page.cdn-folder}}/{{ sound }}" type="audio/mpeg" />
-                        </audio>
-                    </div>
-
-                    <br />
-                    {% endfor %}
-                    {% else %}
-                    <div class="ready-player-1 player-with-download">
-                        <audio crossorigin>
-                            <source src="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.mp3" type="audio/mpeg" />
-                        </audio>
-                    </div>
-                    {% endif %}
 
                     <!-- Legal -->
                     <hr />
@@ -115,26 +94,5 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
             {% include footer.html %} {% include scripts.html %}
         </div>
-        <script>
-            document.addEventListener("DOMContentLoaded", function () {
-                GreenAudioPlayer.init({
-                    selector: ".player",
-                    stopOthersOnPlay: true,
-                });
-
-                GreenAudioPlayer.init({
-                    selector: ".player-with-download",
-                    stopOthersOnPlay: true,
-                    showDownloadButton: true,
-                    enableKeystrokes: true,
-                });
-
-                GreenAudioPlayer.init({
-                    selector: ".player-with-accessibility",
-                    stopOthersOnPlay: true,
-                    enableKeystrokes: true,
-                });
-            });
-        </script>
     </body>
 </html>
