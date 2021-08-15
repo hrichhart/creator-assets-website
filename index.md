@@ -36,25 +36,25 @@ title: Creator Assets | Home
 								<ul class="statistics">
                     <li class="style1">
                         <span class="icon solid fa-eye"></span>
-                        <strong>702k</strong> Channel Views
+                        <strong>831k</strong> Channel Views
                     </li>
                     <li class="style2">
                         <span class="icon solid fa-bookmark"></span>
-                        <strong>1.06k</strong> Subscribers
+                        <strong>1.50k</strong> Subscribers
                     </li>
                     <li class="style3">
                         <span class="icon solid fa-plus-circle"></span>
-                        <strong>20</strong> Assets Created
+                        <strong>18</strong> Assets Published
                     </li>
                 </ul>
 
-								<!-- Visit channel button -->
+				<!-- Visit channel button -->
                 <ul class="actions">
                     <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" target="_BLANK" class="button">Visit Channel</a></li>
                 </ul>
             </div>
 
-						<!-- Channel icon -->
+			<!-- Channel icon -->
             <a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" target="_BLANK"><span class="image"><img src="https://yt3.ggpht.com/ytc/AAUvwnhaZYEtuUc8oRo-JTeeBqz3Moost-BEl8qJs4Mi" alt="" /></span></a>
         </div>
     </section>
