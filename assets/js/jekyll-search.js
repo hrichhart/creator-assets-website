@@ -164,7 +164,7 @@
                 sortMiddleware: function () {
                     return 0;
                 },
-                noResultsText: "No results found.. Check out our YouTube channel for inspiration ! :)",
+                noResultsText: "No results found.. :(",
                 limit: 10,
                 fuzzy: !1,
                 debounceTime: null,
