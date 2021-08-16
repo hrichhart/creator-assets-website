@@ -114,7 +114,7 @@ title: Creator Assets | Home
                 allowfullscreen
             ></iframe>
 
-            <a href="https://creatorassets.com/a/fireplace-sound-effect-1-min-loop" class="button fit">Download Asset</a>
+            <a href="https://creatorassets.com/a/fireplace-sound-effect-1-min-loop" class="button small">Download Asset</a>
         </center>
 
         <footer class="major">
