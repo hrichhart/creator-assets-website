@@ -33,8 +33,8 @@ title: Creator Assets | Home
 
                 <p>Our Mission is to provide creators with high-quality, cost-free assets for use in any project.</p>
 
-								<!-- Channel stats -->
-								<ul class="statistics">
+				<!-- Channel stats -->
+				<ul class="statistics">
                     <li class="style1">
                         <span class="icon solid fa-eye"></span>
                         <strong>831k</strong> Channel Views
@@ -100,6 +100,24 @@ title: Creator Assets | Home
                 Ready? Let's make something awesome together. Visit our YouTube channel or start searching for assets..
             </p>
         </header>
+
+        <center>
+            <h3>Latest Asset</h3>
+            <iframe
+                style="max-width: 100%; border-radius: 8px;"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/watch?v=wdCzrjcO4OU"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+            ></iframe>
+            <p>
+                <i><small>(Official asset download page for this video. 😊)</small></i>
+            </p>
+        </center>
+
         <footer class="major">
             <ul class="actions special">
                 <li><a href="/search" class="button primary">Search For Assets</a></li>
