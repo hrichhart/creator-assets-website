@@ -71,7 +71,13 @@
                     </div>
 
                     <br />
-                    {% endfor %} {% endif %}
+                    {% endfor %} {% else %}
+                    <div class="ready-player-1 player-with-download">
+                        <audio crossorigin>
+                            <source src="/cdn/{{ page.cdn-folder}}/{{ page.cdn-folder}}.mp3" type="audio/mpeg" />
+                        </audio>
+                    </div>
+                    {% endif %}
 
                     <!-- Legal -->
                     <hr />
