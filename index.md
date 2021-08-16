@@ -31,7 +31,7 @@ title: Creator Assets | Home
                     <h2>Our Mission</h2>
                 </header>
 
-                <p>Our Mission is to provide creators with high-quality, cost-free assets to use for any project.</p>
+                <p>Our Mission is to provide creators with high-quality, cost-free assets for use in any project.</p>
 
 								<!-- Channel stats -->
 								<ul class="statistics">
