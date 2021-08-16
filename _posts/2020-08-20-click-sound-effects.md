@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mouse Click Sound Effects"
-video-id: "qbnTfpqEPq0"
+video-id: "UBKNrfUgYqg"
 permalink: /a/mouse-click-sound-effects
 cdn-folder: "mouse-click-sound-effects"
 sounds: [click-1.mp3, click-2.mp3, click-3.mp3, click-4.mp3, click-5.mp3]
