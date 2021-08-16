@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: search
 permalink: /search
 title: Search
 description: noindex
