@@ -164,7 +164,7 @@
                 sortMiddleware: function () {
                     return 0;
                 },
-                noResultsText: "No results found.. Check out our <a href=\"youtube.creatorassets.com\">YouTube channel</a> for a list!",
+                noResultsText: "No results found.. Check out our <a href=\"https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw\" target=\"_blank\">YouTube channel</a> for a list!",
                 limit: 10,
                 fuzzy: !1,
                 debounceTime: null,
