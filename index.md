@@ -44,8 +44,8 @@ title: Creator Assets | Home
                         <strong>1.51k</strong> Subscribers
                     </li>
                     <li class="style3">
-                        <span class="icon solid fa-plus-circle"></span>
-                        <strong>2.2k</strong> Views Per Day
+                        <span class="icon solid fa-download"></span>
+                        <strong>1.2k</strong> Downloads Per Day
                     </li>
                 </ul>
 
