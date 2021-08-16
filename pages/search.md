@@ -19,6 +19,6 @@ description: noindex
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
+  json: '/assets/article-data.json'
 })
 </script>
