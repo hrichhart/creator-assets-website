@@ -58,7 +58,7 @@
 
 						// External link? Bail.
 							if ($this.attr('href').charAt(0) != '#') {
-								console.log("external");return;
+								return;
 							}
 
 						// Deactivate all links.
@@ -78,7 +78,7 @@
 
 						// External link? Bail.
 							if ($this.attr('href').charAt(0) != '#') {
-								console.log("external");return;
+								return;
 							}
 
 						var	$this = $(this),
