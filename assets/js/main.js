@@ -74,7 +74,7 @@
 					})
 					.each(function() {
 
-						if ($this.attr('href').charAt(0) != '#') {
+						if ($(this).attr('href').charAt(0) != '#') {
 							console.log("external");return;
 						}
 
