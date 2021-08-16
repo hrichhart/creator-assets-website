@@ -117,6 +117,22 @@ title: Creator Assets | Home
             <a href="https://creatorassets.com/a/fireplace-sound-effect-1-min-loop" class="button small">Download Asset</a>
         </center>
 
+        <center>
+            <h3>Top Asset</h3>
+            <iframe
+                style="max-width: 100%; border-radius: 8px;"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/q8ZLBOFQ2g0"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+            ></iframe>
+            <br />
+            <a href="https://creatorassets.com/a/10-click-sound-effects" class="button small">Download Asset</a>
+        </center>
+
         <footer class="major">
             <ul class="actions special">
                 <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" class="button primary">Visit Channel</a></li>
