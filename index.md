@@ -51,7 +51,7 @@ title: Creator Assets | Home
 
 				<!-- Visit channel button -->
                 <ul class="actions">
-                    <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" target="_BLANK" class="button">Visit Channel</a></li>
+                    <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" target="_BLANK" class="button primary">Visit Channel</a></li>
                 </ul>
             </div>
 
