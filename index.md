@@ -45,7 +45,7 @@ title: Creator Assets | Home
                     </li>
                     <li class="style3">
                         <span class="icon solid fa-plus-circle"></span>
-                        <strong>18</strong> Assets Published
+                        <strong>1.9k</strong> Asset Downloads / Day
                     </li>
                 </ul>
 
