@@ -20,7 +20,7 @@ title: Creator Assets | Home
         <li><a href="https://creatorassets.com/search">Search...</a></li>
     </ul>
 </nav>
-<div id="https://creatorassets.com/search"></div>
+
 <!-- Main -->
 <div id="main">
     <!-- Our Mission -->
