@@ -45,7 +45,7 @@ title: Creator Assets | Home
                     </li>
                     <li class="style3">
                         <span class="icon solid fa-plus-circle"></span>
-                        <strong>1.9k</strong> Downloads Per Day
+                        <strong>450</strong> Downloads Per Day
                     </li>
                 </ul>
 
