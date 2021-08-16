@@ -101,22 +101,7 @@ title: Creator Assets | Home
             </p>
         </header>
 
-        <center>
-            <h3>Latest Asset</h3>
-            <iframe
-                style="max-width: 100%; border-radius: 8px;"
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/wdCzrjcO4OU"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-            ></iframe>
-            <p>
-                <i><small>(Official asset download page for this video. 😊)</small></i>
-            </p>
-        </center>
+        
 
         <footer class="major">
             <ul class="actions special">
