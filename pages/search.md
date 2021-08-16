@@ -6,7 +6,7 @@ description: noindex
 ---
 
 <!-- Html Elements for Search -->
-<input type="text" id="search-input" placeholder="Search blog posts..">
+<input type="text" id="search-input" placeholder="Search for assets...">
 <ul id="results-container"></ul>
 
 <script src="/assets/js/jekyll-search.js"></script>
