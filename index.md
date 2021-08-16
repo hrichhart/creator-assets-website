@@ -17,6 +17,7 @@ title: Creator Assets | Home
         <li><a href="#intro" class="active">Our Mission</a></li>
         <li><a href="#first">Why Us?</a></li>
         <li><a href="#cta">Get Started</a></li>
+        <li><a href="https://creatorassets.com/search">Search...</a></li>
     </ul>
 </nav>
 
