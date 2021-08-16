@@ -74,9 +74,12 @@
 					})
 					.each(function() {
 
-						if ($(this).attr('href').charAt(0) != '#') {
-							console.log("external");return;
-						}
+						var $this = $(this);
+
+						// External link? Bail.
+							if ($this.attr('href').charAt(0) != '#') {
+								console.log("external");return;
+							}
 
 						var	$this = $(this),
 							id = $this.attr('href'),
