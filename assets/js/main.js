@@ -74,6 +74,10 @@
 					})
 					.each(function() {
 
+						if ($this.attr('href').charAt(0) != '#') {
+							console.log("external");return;
+						}
+
 						var	$this = $(this),
 							id = $this.attr('href'),
 							$section = $(id);
@@ -82,10 +86,7 @@
 							if ($section.length < 1)
 								return;
 
-								if ($this.attr('href').charAt(0) != '#') {
-									console.log("external");return;
-								}
-
+								
 						// Scrollex.
 							$section.scrollex({
 								mode: 'middle',
