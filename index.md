@@ -37,11 +37,11 @@ title: Creator Assets | Home
 				<ul class="statistics">
                     <li class="style1">
                         <span class="icon solid fa-eye"></span>
-                        <strong>831k</strong> Channel Views
+                        <strong>858k</strong> Channel Views
                     </li>
                     <li class="style2">
                         <span class="icon solid fa-bookmark"></span>
-                        <strong>1.51k</strong> Subscribers
+                        <strong>1.6k</strong> Subscribers
                     </li>
                     <li class="style3">
                         <span class="icon solid fa-download"></span>
