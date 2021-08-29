@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Fireplace Sound Effect 1 Minute Loop (Copyright Free)"
-video-id: "wdCzrjcO4OU"
-permalink: /a/fireplace-sound-effect-1-min-loop
-cdn-folder: "fireplace-sound-effect-1-min-loop"
-description: "Here's a one minute loop of a fireplace. You can use this in any project, as this asset is listed in the public domain. That means that you don't have to credit us. (Although crediting is really appreciated!)"
+title:  "Happy Days - Playful And Uplifting Copyright Free Music for Creators"
+video-id: "u-ovbh7G0po"
+permalink: /a/happy-days-song
+cdn-folder: "happy-days-song"
+description: "A copyright-free playful and uplifting song, great for background music in videos! This song is 100% copyright free, so that means you can use it without crediting. :)"
 ---
 
-Here's a one minute loop of a fireplace. You can use this in any project, as this asset is listed in the public domain. That means that you don't have to credit us. (Although crediting is really appreciated!)
+A copyright-free playful and uplifting song, great for background music in videos! This song is 100% copyright free, so that means you can use it without crediting. :)
