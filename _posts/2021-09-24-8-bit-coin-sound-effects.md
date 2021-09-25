@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8-Bit Coin Sound Effect (Copyright Free)"
-video-id: "3eBjq0P0CRw "
+video-id: "5v20ztxGvQ0"
 permalink: /a/8-bit-coin-sound-effects
 cdn-folder: "8-bit-coin-sound-effects"
 sounds: [sound1.wav,sound2.wav,sound3.wav,sound4.wav,sound5.wav,sound6.wav]
