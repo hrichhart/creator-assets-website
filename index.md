@@ -40,7 +40,7 @@ title: Creator Assets | Home
                     </li>
                     <li class="style2">
                         <span class="icon solid fa-bookmark"></span>
-                        <strong>2.2k</strong> Subscribers
+                        <strong>2.32k</strong> Subscribers
                     </li>
                     <li class="style3">
                         <span class="icon solid fa-download"></span>
