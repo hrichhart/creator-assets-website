@@ -40,7 +40,7 @@ title: Creator Assets | Home
                     </li>
                     <li class="style2">
                         <span class="icon solid fa-bookmark"></span>
-                        <strong>2.32k</strong> Subscribers
+                        <strong>2.39k</strong> Subscribers
                     </li>
                     <li class="style3">
                         <span class="icon solid fa-download"></span>
@@ -70,7 +70,7 @@ title: Creator Assets | Home
         <ul class="features">
             <li>
                 <span class="icon solid major style1 fa-gavel"></span>
-                <h3>Copyright Free</h3>
+                <h3>No Copyright</h3>
                 <p>All of our assets are listed in the Public Domain-- so you don't have to worry about copyright strikes, licenses, or crediting!</p>
             </li>
             <li>
