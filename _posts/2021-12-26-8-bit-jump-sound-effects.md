@@ -4,7 +4,7 @@ title:  "8-Bit Powerup Sound Effects (Copyright Free)"
 video-id: "Y8bSsRVr3Yg"
 permalink: /a/8-bit-jump-sound-effects
 cdn-folder: "8-bit-jump-sound-effects"
-sounds: [sound1.wav,sound2.wav,sound3.wav,sound4.wav,sound5.wav,sound6.wav,sound7.wav]
+sounds: [sound1.mp3,sound2.mp3,sound3.mp3,sound4.mp3,sound5.mp3,sound6.mp3,sound7.mp3]
 description: "Six competely copyright free 8-bit jump sound effects. Amazing for video games, film projects, and more!"
 ---
 
