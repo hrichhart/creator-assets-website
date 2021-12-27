@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8-Bit Powerup Sound Effects (Copyright Free)"
+title:  "8-Bit Jump Sound Effects (Copyright Free)"
 video-id: "Y8bSsRVr3Yg"
 permalink: /a/8-bit-jump-sound-effects
 cdn-folder: "8-bit-jump-sound-effects"
