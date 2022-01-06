@@ -40,7 +40,7 @@ title: Creator Assets | Home
                     </li>
                     <li class="style2">
                         <span class="icon solid fa-bookmark"></span>
-                        <strong>2.46k</strong> Subscribers
+                        <strong>2.53k</strong> Subscribers
                     </li>
                     <li class="style3">
                         <span class="icon solid fa-download"></span>
@@ -108,14 +108,14 @@ title: Creator Assets | Home
                 style="max-width: 100%; border-radius: 8px;"
                 width="560"
                 height="315"
-                src="https://www.youtube.com/embed/wdCzrjcO4OU"
+                src="https://www.youtube.com/embed/Y8bSsRVr3Yg"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen
             ></iframe>
             <br />
-            <a href="https://creatorassets.com/a/fireplace-sound-effect-1-min-loop" class="button small">Download Asset</a>
+            <a href="https://creatorassets.com/a/8-bit-jump-sound-effects" class="button small">Download Asset</a>
         </center>
         <br />
         <center>
