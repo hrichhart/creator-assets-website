@@ -36,7 +36,7 @@ title: Creator Assets | Home
                 <ul class="statistics">
                     <li class="style1">
                         <span class="icon solid fa-eye"></span>
-                        <strong>1.18M+</strong> Channel Views
+                        <strong>1.2M+</strong> Channel Views
                     </li>
                     <li class="style2">
                         <span class="icon solid fa-bookmark"></span>
@@ -108,7 +108,7 @@ title: Creator Assets | Home
                 style="max-width: 100%; border-radius: 8px;"
                 width="560"
                 height="315"
-                src="https://www.youtube.com/embed/Y8bSsRVr3Yg"
+                src="https://www.youtube.com/embed/OvlM5umIku8"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
