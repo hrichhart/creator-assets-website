@@ -98,7 +98,7 @@ title: Creator Assets | Home
         <header class="major">
             <h2>Let's Make Something Awesome.</h2>
             <p>
-                Ready? Let's make something awesome together. Visit our YouTube channel or start searching for assets..
+                Ready? Check out our latest assets:
             </p>
         </header>
 
