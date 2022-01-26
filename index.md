@@ -36,7 +36,7 @@ title: Creator Assets | Home
                 <ul class="statistics">
                     <li class="style1">
                         <span class="icon solid fa-eye"></span>
-                        <strong>1.2M+</strong> Channel Views
+                        <strong>1.2M</strong> Channel Views
                     </li>
                     <li class="style2">
                         <span class="icon solid fa-bookmark"></span>
