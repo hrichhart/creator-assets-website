@@ -108,7 +108,7 @@ title: Creator Assets | Home
                 style="max-width: 100%; border-radius: 8px;"
                 width="560"
                 height="315"
-                src="https://www.youtube.com/watch?v=OvlM5umIku8"
+                src="https://www.youtube.com/embed/OvlM5umIku8"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
