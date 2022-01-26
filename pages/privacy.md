@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /privacy
 title: Privacy Policy
 description: noindex
