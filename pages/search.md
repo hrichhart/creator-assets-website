@@ -3,6 +3,7 @@ layout: search
 permalink: /search
 title: Search
 description: noindex
+noAds: true
 ---
 
 <!-- Html Elements for Search -->
