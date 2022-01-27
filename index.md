@@ -102,42 +102,13 @@ title: Creator Assets | Home
             </p>
         </header>
 
-        <center>
-            <h3>Latest Asset</h3>
-            <iframe
-                style="max-width: 100%; border-radius: 8px;"
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/OvlM5umIku8"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-            ></iframe>
-            <br />
-            <a href="https://creatorassets.com/a/click-mouse-click-sound-effect" class="button small">Download Asset</a>
-        </center>
-        <br />
-        <center>
-            <h3>Top Asset</h3>
-            <iframe
-                style="max-width: 100%; border-radius: 8px;"
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/q8ZLBOFQ2g0"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-            ></iframe>
-            <br />
-            <a href="https://creatorassets.com/a/10-click-sound-effects" class="button small">Download Asset</a>
-        </center>
+        <!-- Featured Assets -->
+        
 
         <footer class="major">
             <ul class="actions special">
                 <li><a href="https://www.youtube.com/channel/UCDEeP2ywYaTdO8YmvNmp-Tw" class="button primary">Visit Channel</a></li>
-                <li><a href="/search" class="button">Search For Assets</a></li>
+                <li><a href="/search" class="button">Search For More Assets</a></li>
             </ul>
         </footer>
     </section>
