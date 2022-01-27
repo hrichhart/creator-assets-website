@@ -103,16 +103,9 @@ noAds: true
         <style>
             .post {
                 width: 60%;border-radius: 8px;box-shadow: 5px 5px 5px;
-            }
-
-            center {
-                padding-bottom: 15px;
+                margin-bottom: 15px;
             }
         </style>
-
-        <center>
-            <img src="https://creatorassets.com/cdn/pop-sound-effects/thumb.jpg" target = "https://creatorassets.com/a/pop-sound-effects" class="post">
-        </center>
 
         <center>
             <img src="https://creatorassets.com/cdn/click-mouse-click-sound-effect/thumb.jpg" target = "https://creatorassets.com/a/click-mouse-click-sound-effect" class="post">
@@ -128,6 +121,10 @@ noAds: true
 
         <center>
             <img src="https://creatorassets.com/cdn/notification-sound-effects/thumb.jpg" target = "https://creatorassets.com/a/notification-sound-effects" class="post">
+        </center>
+
+        <center>
+            <img src="https://creatorassets.com/cdn/pop-sound-effects/thumb.jpg" target = "https://creatorassets.com/a/pop-sound-effects" class="post">
         </center>
 
         <footer class="major">
