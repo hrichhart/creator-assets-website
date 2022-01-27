@@ -102,8 +102,25 @@ title: Creator Assets | Home
             </p>
         </header>
 
-        <!-- Featured Assets -->
-        
+        <center>
+            <img href="https://creatorassets.com/cdn/click-mouse-click-sound-effect/thumb.jpg">
+        </center>
+        <br />
+        <center>
+            <h3>Top Asset</h3>
+            <iframe
+                style="max-width: 100%; border-radius: 8px;"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/q8ZLBOFQ2g0"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+            ></iframe>
+            <br />
+            <a href="https://creatorassets.com/a/10-click-sound-effects" class="button small">Download Asset</a>
+        </center>
 
         <footer class="major">
             <ul class="actions special">
