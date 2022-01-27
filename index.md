@@ -107,25 +107,25 @@ noAds: true
             }
         </style>
 
-        <center href="https://creatorassets.com/a/click-mouse-click-sound-effect">
+        <a href="https://creatorassets.com/a/click-mouse-click-sound-effect">
             <img src="https://creatorassets.com/cdn/click-mouse-click-sound-effect/thumb.jpg" class="post">
-        </center>
+        </a>
 
-        <center href="https://creatorassets.com/a/8-bit-coin-sound-effects">
+        <a href="https://creatorassets.com/a/8-bit-coin-sound-effects">
             <img src="https://creatorassets.com/cdn/8-bit-coin-sound-effects/thumb.jpg" class="post">
-        </center>
+        </a>
 
-        <center href="https://creatorassets.com/a/button-sound-effects">
+        <a href="https://creatorassets.com/a/button-sound-effects">
             <img src="https://creatorassets.com/cdn/button-sound-effects/thumb.jpg" class="post">
-        </center>
+        </a>
 
-        <center href="https://creatorassets.com/a/notification-sound-effects">
+        <a href="https://creatorassets.com/a/notification-sound-effects">
             <img src="https://creatorassets.com/cdn/notification-sound-effects/thumb.jpg" class="post">
-        </center>
+        </a>
 
-        <center href="https://creatorassets.com/a/pop-sound-effects">
+        <a href="https://creatorassets.com/a/pop-sound-effects">
             <img src="https://creatorassets.com/cdn/pop-sound-effects/thumb.jpg" class="post">
-        </center>
+        </a>
 
         <footer class="major">
             <ul class="actions special">
