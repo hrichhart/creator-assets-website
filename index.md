@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Creator Assets | Home
-noAds: true
 ---
 
 <!-- Header -->

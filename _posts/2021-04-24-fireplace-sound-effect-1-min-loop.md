@@ -5,6 +5,7 @@ video-id: "wdCzrjcO4OU"
 permalink: /a/fireplace-sound-effect-1-min-loop
 cdn-folder: "fireplace-sound-effect-1-min-loop"
 description: "Here's a one minute loop of a fireplace. You can use this in any project, as this asset is listed in the public domain. That means that you don't have to credit us. (Although crediting is really appreciated!)"
+showAds: true
 ---
 
 Here's a one minute loop of a fireplace. You can use this in any project, as this asset is listed in the public domain. That means that you don't have to credit us. (Although crediting is really appreciated!)
