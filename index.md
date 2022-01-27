@@ -103,6 +103,9 @@ noAds: true
         <style>
             .post {
                 width: 60%;border-radius: 8px;box-shadow: 5px 5px 5px;
+            }
+
+            center {
                 padding-bottom: 15px;
             }
         </style>
